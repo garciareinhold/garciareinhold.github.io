@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokecolombia/static/css/main.073c9b0a.css",
+    "main.css": "/pokecolombia/static/css/main.2503ea51.css",
     "main.js": "/pokecolombia/static/js/main.5e8d525e.js",
     "static/js/787.90e43d2f.chunk.js": "/pokecolombia/static/js/787.90e43d2f.chunk.js",
     "index.html": "/pokecolombia/index.html",
-    "main.073c9b0a.css.map": "/pokecolombia/static/css/main.073c9b0a.css.map",
+    "main.2503ea51.css.map": "/pokecolombia/static/css/main.2503ea51.css.map",
     "main.5e8d525e.js.map": "/pokecolombia/static/js/main.5e8d525e.js.map",
     "787.90e43d2f.chunk.js.map": "/pokecolombia/static/js/787.90e43d2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.2503ea51.css",
     "static/js/main.5e8d525e.js"
   ]
 }
