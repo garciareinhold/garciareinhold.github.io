@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokecolombia/static/css/main.40d5abc8.css",
-    "main.js": "/pokecolombia/static/js/main.c43ac212.js",
-    "static/js/787.90e43d2f.chunk.js": "/pokecolombia/static/js/787.90e43d2f.chunk.js",
-    "index.html": "/pokecolombia/index.html",
-    "main.40d5abc8.css.map": "/pokecolombia/static/css/main.40d5abc8.css.map",
-    "main.c43ac212.js.map": "/pokecolombia/static/js/main.c43ac212.js.map",
-    "787.90e43d2f.chunk.js.map": "/pokecolombia/static/js/787.90e43d2f.chunk.js.map"
+    "main.css": "/cumple-lula/static/css/main.40d5abc8.css",
+    "main.js": "/cumple-lula/static/js/main.e760f517.js",
+    "static/js/787.9c5a3a37.chunk.js": "/cumple-lula/static/js/787.9c5a3a37.chunk.js",
+    "index.html": "/cumple-lula/index.html",
+    "main.40d5abc8.css.map": "/cumple-lula/static/css/main.40d5abc8.css.map",
+    "main.e760f517.js.map": "/cumple-lula/static/js/main.e760f517.js.map",
+    "787.9c5a3a37.chunk.js.map": "/cumple-lula/static/js/787.9c5a3a37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40d5abc8.css",
-    "static/js/main.c43ac212.js"
+    "static/js/main.e760f517.js"
   ]
 }
