@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cumple-lula/static/css/main.40d5abc8.css",
-    "main.js": "/cumple-lula/static/js/main.e760f517.js",
-    "static/js/787.9c5a3a37.chunk.js": "/cumple-lula/static/js/787.9c5a3a37.chunk.js",
+    "main.js": "/cumple-lula/static/js/main.c08c0b92.js",
+    "static/js/787.2227a746.chunk.js": "/cumple-lula/static/js/787.2227a746.chunk.js",
     "index.html": "/cumple-lula/index.html",
     "main.40d5abc8.css.map": "/cumple-lula/static/css/main.40d5abc8.css.map",
-    "main.e760f517.js.map": "/cumple-lula/static/js/main.e760f517.js.map",
-    "787.9c5a3a37.chunk.js.map": "/cumple-lula/static/js/787.9c5a3a37.chunk.js.map"
+    "main.c08c0b92.js.map": "/cumple-lula/static/js/main.c08c0b92.js.map",
+    "787.2227a746.chunk.js.map": "/cumple-lula/static/js/787.2227a746.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40d5abc8.css",
-    "static/js/main.e760f517.js"
+    "static/js/main.c08c0b92.js"
   ]
 }
