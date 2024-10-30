@@ -9,7 +9,7 @@ function App() {
 
   const getRemainingDays = () => {
     const date1 = new Date();
-    const date2 = new Date('11/04/2022');
+    const date2 = new Date('11/04/2025');
     const diffTime = Math.abs(date2 - date1);
     const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
     return diffDays;
